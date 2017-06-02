@@ -126,3 +126,36 @@
  	background-color: black;
  	display: inline-block;
  }
+
+ input {
+	font-size: 15px;
+	font-weight: 400;
+	color:  #EAEAEA; /*intento color texto gris*/
+	width: 300px;
+	padding: 11px 0;
+	margin: 8px 0;
+	display: inline-block;
+
+	box-sizing: border-box;
+	margin-top: 20px;
+	border: none;
+	border-bottom: 1.5px solid #75726c;
+	margin-left: 43px;
+}
+
+.pinkboton{
+	font-size: 15px;
+	font-weight: 400;
+	width: 143px;
+	color: #EDE9E2;
+	background-color: #33CC99;
+	height: 26px;
+	margin-top: 5px;
+	border-radius: 15px;
+	padding: 4px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	margin-left: 43px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4)
+}
